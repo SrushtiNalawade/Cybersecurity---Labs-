@@ -27,7 +27,6 @@ If you’d like to review my lab work, please reach out with your **GitHub usern
 
 You can contact me at:
 - Email:srushtinalawade9@gmail.com
-- LinkedIn:[https://linkedin.com/in/yourprofile]
 
 Once I receive your details, I’ll send a secure invitation to view the repositories.
 
