@@ -1,4 +1,4 @@
-# Cybersecurity---Labs
+# Cybersecurity-Labs
 Public summary of my CEH, CPENT and CHFI lab work — private repos available on request.
   
 This repository gives a brief overview of my hands-on lab work completed during the following cybersecurity courses:
