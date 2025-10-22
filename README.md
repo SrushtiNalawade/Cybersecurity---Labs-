@@ -26,7 +26,7 @@ All labs were performed in controlled, isolated environments for learning and as
 If you’d like to review my lab work, please reach out with your **GitHub username** so I can share read-only access.
 
 You can contact me at:
-- Email:srushtinalawade9@gmail.com
+- Email:srushti5737@gmail.com
 
 Once I receive your details, I’ll send a secure invitation to view the repositories.
 
